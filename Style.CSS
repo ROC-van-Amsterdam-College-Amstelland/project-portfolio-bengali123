@@ -4,7 +4,7 @@ ul li{
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color:rgb(18, 196, 172);
+  background-color:rgb(34, 33, 32);
   width: 10%;
   justify-content: center;
   float: left;
@@ -15,14 +15,14 @@ ul li{
 
 li a {
   display: block;
-  color: rgb(11, 12, 12);
+  color: rgb(255, 255, 255);
   text-align:center;
   padding: 14px 16px;
   text-decoration: none;
 }
 
 li a:hover {
-  background-color:rgb(245, 245, 247);
+  background-color:gray;
 }
 
 footer {
@@ -38,7 +38,7 @@ text-align: left;
 
 main h1 {
     position: relative;
-    top: 120px;
+    top: 100px;
     right: 20%;
 }
 
@@ -48,7 +48,10 @@ main a {
 }
 
 body{
-    background-image: url("bg.gif");
+    background-image: url("giphy.gif");
     background-size: cover;
     height: 100vh;
 }
+div{
+    width:65%;
+height:15%;}
