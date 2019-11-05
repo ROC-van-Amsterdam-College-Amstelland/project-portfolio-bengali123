@@ -15,14 +15,14 @@ ul li{
 
 li a {
   display: block;
-  color: rgb(21, 247, 247);
+  color: rgb(11, 12, 12);
   text-align:center;
   padding: 14px 16px;
   text-decoration: none;
 }
 
 li a:hover {
-  background-color:blue;
+  background-color:rgb(245, 245, 247);
 }
 
 footer {
