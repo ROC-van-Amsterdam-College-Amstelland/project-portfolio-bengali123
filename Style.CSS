@@ -48,10 +48,14 @@ main a {
 }
 
 body{
-    background-image: url("giphy.gif");
+    background-image: url('/project-portfolio-bengali123/image/giphy.gif');
     background-size: cover;
     height: 100vh;
 }
 div{
     width:65%;
 height:15%;}
+
+#p {
+    margin: 10% 0% 0% 0%;
+}
