@@ -41,6 +41,7 @@ main h1 {
     position: relative;
     top: 100px;
     right: 20%;
+    color:white;
 }
 
 main a {
@@ -63,7 +64,12 @@ color: white;
     margin: 10% 0% 0% 0%;
 }
 #hallo{
-  height: 60%;
-  width: 50%;
+  height: 100px;
+  width: 100px;
   
+}
+
+h4{
+  text-align: right;
+  color: white;
 }
