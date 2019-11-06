@@ -61,3 +61,13 @@ ul li{
   }
   #mail{width: 100px; 
 height:60px ;}
+p{
+    width: 50%;
+    height: 30%;
+    justify-content:center ;
+    color: white;
+}
+
+h2{
+    color:white;
+}

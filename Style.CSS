@@ -55,8 +55,15 @@ body{
 }
 div{
     width:65%;
-height:15%;}
+height:15%;
+color: white;
+}
 
 #p {
     margin: 10% 0% 0% 0%;
+}
+#hallo{
+  height: 60%;
+  width: 60%;
+  position: left;
 }
